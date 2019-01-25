@@ -1,0 +1,34 @@
+body {
+    padding: 50px;
+}
+
+.button {
+    padding: 15px;
+    color: #fff;
+    font-size: 20px;
+    margin: 10px;
+}
+
+.secondary-button {
+    color: black;
+}
+
+.safe-button {
+    background-color: blue;
+}
+
+.go-button {
+    background-color: green;
+}
+
+.warning-button {
+    background-color: orange;
+}
+
+.stop-button {
+    background-color: red;
+}
+
+.second-button-line {
+    border-radius: 15%;
+}
